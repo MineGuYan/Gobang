@@ -1,0 +1,39 @@
+﻿  main.cpp
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(876,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(880,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(902,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(906,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(929,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(933,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(955,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(959,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(982,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(986,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1008,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1012,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1035,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1039,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1061,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1065,68): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1087,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1093,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1113,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1119,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1140,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1146,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1166,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1172,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1193,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1199,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1219,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1225,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1246,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1252,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1272,65): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1278,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\备忘录\作业\EasyX\五子棋\五子棋\main.cpp(1327,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 109 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  五子棋.vcxproj -> E:\备忘录\作业\EasyX\五子棋\x64\Release\五子棋.exe
